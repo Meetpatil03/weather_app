@@ -24,8 +24,8 @@
 4. Wait for bit till vs code gets settled down, with its own configuration
 5. Now you will be seeing a pop box displayed on the Bottom-Rigth-Corner with a button (run-pub-get/pub-get), press that button so that all the dependencies and packages get installed.
 
-                        # Or
-5. If didn't got the Pop box, no issues just enter the command in your vs code terminal (it will do the same thing which to be done by the above stpe)-> flutter pub get 
+                        <h2> Or </h2>
+5. If didn't got the Pop box, no issues just enter the command in your vs code terminal (it will do the same thing which to be done by the above stpe)-> # flutter pub get 
 
 6. Now your Dependencies are installed, Please chech whether are getting any error or not, if you are not getting any error that means everything is configured correctly. If you are seeing any red lines in your code or file their might be something which need to be configured (try to reach out the person who had uploaded the repo)
 
