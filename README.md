@@ -11,15 +11,15 @@
 # How to Run the App :
 1. clone the repository on our local Machine with the help of git command (git clone link-of-git-repo).
 2. Open cmd/terminal on your local Machine.
-3. Navigate to the directory in which you have cloned the project.
-    for Example : 
-    i. When i opened the Terminal My current directory was : (C:\Users\Meet Patil>)
-    ii. i will Navigate to my folder in which i have cloned the Repo (i have cloned my Repo on desktop inside the MyTask folder so my Command will be) -> cd "Desktop/MyTask/weather_app"
+3. Navigate to the directory in which you have cloned the project.<br>
+    for Example : <br>
+    i. When i opened the Terminal My current directory was : (C:\Users\Meet Patil>)<br>
+    ii. i will Navigate to my folder in which i have cloned the Repo (i have cloned my Repo on desktop inside the MyTask folder so my Command will be) -> cd "Desktop/MyTask/weather_app"<br>
     iii. Now My current directory will look like this -> C:\Users\Meet Patil\Desktop\MyTask\weather_app>
-    iv. Now we will navigate to our flutter app (Please Note Repository folder and flutter app Project name are same i.e weather_app) -> cd weather_app
-    v. Now we have entered in the root directory of our flutter application (directory will be looking somewhat like this) : C:\Users\Meet Patil\Desktop\MyTask\weather_app\weather_app>
-    vi. Now just enter command (Note after type code you need to give full-stop too): code . 
-    vii. Our flutter application will be opened on the vs code
+    iv. Now we will navigate to our flutter app (Please Note Repository folder and flutter app Project name are same i.e weather_app) -> cd weather_app<br>
+    v. Now we have entered in the root directory of our flutter application (directory will be looking somewhat like this) : C:\Users\Meet Patil\Desktop\MyTask\weather_app\weather_app><br>
+    vi. Now just enter command (Note after type code you need to give full-stop too): code . <br>
+    vii. Our flutter application will be opened on the vs code<br>
 
 4. Wait for bit till vs code gets settled down, with its own configuration
 5. Now you will be seeing a pop box displayed on the Bottom-Rigth-Corner with a button (run-pub-get/pub-get), press that button so that all the dependencies and packages get installed.
@@ -30,10 +30,10 @@
 6. Now your Dependencies are installed, Please chech whether are getting any error or not, if you are not getting any error that means everything is configured correctly. If you are seeing any red lines in your code or file their might be something which need to be configured (try to reach out the person who had uploaded the repo)
 
 7. select the Emulator or simulator to run the app 
-    i. Press : ctrl+shift+P
-    ii. A Prompt box/ searched box will be Appeared at the Top centre
-    iii. Enter or search for -> Flutter:Select Device
-    iv. A list will appear with different devices (for eg : Current Device -> chrome,Edge, Pixel 4a API 30 (it would be any Pixel Phone you have made from Android studio) ) : Press any one device you want to run the flutter app on 
+    i. Press : ctrl+shift+P<br>
+    ii. A Prompt box/ searched box will be Appeared at the Top centre<br>
+    iii. Enter or search for -> Flutter:Select Device<br>
+    iv. A list will appear with different devices (for eg : Current Device -> chrome,Edge, Pixel 4a API 30 (it would be any Pixel Phone you have made from Android studio) ) : Press any one device you want to run the flutter app on <br>
 
 8. In the Terminal of vs code Enter the command (Note their is a space between flutter and run) : flutter run
 9. Now the Terminal will start to build and run the app on your emulator.
@@ -41,6 +41,6 @@
 
 
 # Reach out to me :
- if you are facing any issue, please contact me 
- i. email id : meetpatil03@gmail.com
- ii. Linkedin Id (please add a note too about the issue of this app when you send a connection request so that i can immediatley look into it) : www.linkedin.com/in/meet-patil-25910822b
+ if you are facing any issue, please contact me <br>
+ i. email id : meetpatil03@gmail.com<br>
+ ii. Linkedin Id (please add a note too about the issue of this app when you send a connection request so that i can immediatley look into it) : www.linkedin.com/in/meet-patil-25910822b<br>
